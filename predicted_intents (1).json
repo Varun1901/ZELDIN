@@ -1,0 +1,17 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "predicted_intent": "Book Appointment (user wants to schedule a visit, meeting, or appointment)",
+    "rationale": "The conversation ends with: 'hi, im looking for a 2bhk in dubai preferably marina or jvc max 120k. can we do a site visit this week?'. Model suggests 'Book Appointment (user wants to schedule a visit, meeting, or appointment)' with confidence 0.31."
+  },
+  {
+    "conversation_id": "conv_002",
+    "predicted_intent": "Support Request (user needs help or reports an issue)",
+    "rationale": "The conversation ends with: 'hello, the ac you installed last week stopped working. yes, its 45213. can you send someone to fix it?'. Model suggests 'Support Request (user needs help or reports an issue)' with confidence 0.64."
+  },
+  {
+    "conversation_id": "conv_003",
+    "predicted_intent": "Pricing Negotiation (user is bargaining or asking for a better price)",
+    "rationale": "The conversation ends with: 'hey, i saw your iphone 14 listing. can you give me a better price than 70k? hmm, can we make it 65k?'. Model suggests 'Pricing Negotiation (user is bargaining or asking for a better price)' with confidence 0.68."
+  }
+]
